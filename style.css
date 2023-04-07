@@ -11,15 +11,16 @@
 
 
 .green{
-    background-color:green;
+    background-color:#00E165;
     min-height: 10px;
     padding: 2%;
+    border:0;
     
-    border:1px solid white;
 }
 .nested{width: 100%;
 display: flex;
-padding: 3%;}
+padding: 3%;
+gap:0.5%;}
 
 .margin-bottom{
     margin-bottom: 1%;
