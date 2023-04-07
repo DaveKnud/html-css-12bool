@@ -1,0 +1,26 @@
+
+[class*="col-"] {
+    min-height: 50px;
+    background-color: #006CFA;
+    color: white;
+    border: solid 1px white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.green{
+    background-color:green;
+    min-height: 10px;
+    padding: 2%;
+    
+    border:1px solid white;
+}
+.nested{width: 100%;
+display: flex;
+padding: 3%;}
+
+.margin-bottom{
+    margin-bottom: 1%;
+}
